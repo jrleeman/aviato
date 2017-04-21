@@ -1,0 +1,48 @@
+SUMMARY INFORMATION FOR SOUNDING "185_001"
+==========================================
+
+Station Name             : KVUM
+.       WMO Number       : /////
+.       ICAO Number      : /////
+.       Mobile Call Sign : /////
+.       Latitude         : 41.46422°N
+.       Longitude        : 087.03859°W
+.       Altitude (MSL)   : 250m
+
+Sonde   Type             : iMet-1-ABx
+.       Serial Number    : 19345
+
+Surface Pressure         : 977.2hPa
+.       Temperature      : +11.5°C
+.       Humidity         : 98%
+.       Wind Speed       : 10.0kts
+.       Wind Direction   : 215.0°
+.       Cloud Code       : /////
+
+Launched (UTC)           : 2/28/2017 18:06:56
+
+--------------------------------------------------------------------------------
+
+Operator                 : David Goines
+
+Balloon             Make : Unknown
+.                 Weight : 200
+.                    Age : 
+
+Data    Minimum Pressure : 156.3hPa
+.       Maximum Altitude : 12973m
+.            Ascent Rate : 284m/min
+.    Maximum Temperature : +11.6°C
+.    Minimum Temperature : -63.9°C
+.    Maximum Humidity    : 100%
+.    Minimum Humdity     : 7%
+.    Maximum Slant Range : 97.751km
+.      Final Slant Range : 97.751km
+.        Final Elevation : 7.6°
+
+Termination (UTC)        : 2/28/2017 18:53:20
+.                 Source : Operator
+.                 Reason : User terminated
+.        Ascent Duration : 0 hours 45 minutes 40 seconds
+
+--------------------------------------------------------------------------------
